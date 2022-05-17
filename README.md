@@ -18,6 +18,10 @@
 
 ---
 
+为数不多的STX小主板，上传了两个bios，```ECS-H110S-2P-6/7th.bin```为原版bios，支持6/7代u，```ECS-H110S-2P-8/9th.bin```为魔改版，支持8/9代u，当然也包括QNVH。
+
+---
+
 # Hardware/硬件
 
 |                     | Specifications / 型号               | Note / 备注   |
